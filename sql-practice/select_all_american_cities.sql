@@ -1,4 +1,3 @@
-```sql
 /*
 HackerRank SQL Practice
 Problem: Revising the Select Query I
@@ -31,5 +30,5 @@ Notes:
 SELECT *
 FROM CITY
 WHERE COUNTRYCODE = 'USA'
-  AND POPULATION > 100000;
-```
+AND POPULATION > 100000;
+
