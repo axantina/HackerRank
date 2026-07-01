@@ -1,20 +1,28 @@
 # HackerRank Practice
 
-This repository contains my Python practice, HackerRank solutions, and coding fundamentals.
+This repository contains my HackerRank practice solutions and coding fundamentals.
 
-I use this repository to document my learning progress in Python syntax, problem solving, basic algorithms, and object-oriented programming.
+I use this repository to document my learning progress in Python, SQL, problem solving, basic algorithms, and programming logic.
 
 ---
 
 ## About This Repository
 
-This repository is regularly updated as I continue practicing coding problems and Python fundamentals.
+This repository is regularly updated as I continue practicing coding problems and database queries.
 
-The goal is not only to collect solutions, but also to improve my ability to understand problems, break requirements into logic, and write clean Python code step by step.
+The goal is not only to collect solutions, but also to improve my ability to:
+
+* Understand problem requirements
+* Break problems into simple logic
+* Write clean and readable code
+* Practice SQL query patterns
+* Build consistency through regular practice
 
 ---
 
 ## Practice Areas
+
+### Python
 
 * Python basics
 * Input and output
@@ -24,8 +32,26 @@ The goal is not only to collect solutions, but also to improve my ability to und
 * Lists and data structures
 * Functions
 * Object-oriented programming
-* Basic algorithms
-* Problem solving
+* Basic problem solving
+
+### SQL
+
+* Basic SELECT queries
+* Filtering with WHERE
+* Sorting with ORDER BY
+* DISTINCT values
+* String functions such as LEFT, RIGHT, LENGTH, and REPLACE
+* Aggregation functions such as COUNT, AVG, and CEIL
+* Basic SQL problem solving
+
+---
+
+## Current SQL Categories
+
+* Basic Select
+* Aggregation
+
+More categories will be added as I continue practicing, such as joins, advanced select queries, and alternative queries.
 
 ---
 
@@ -34,16 +60,16 @@ The goal is not only to collect solutions, but also to improve my ability to und
 Through this repository, I am improving my ability to:
 
 * Read and understand programming problems
-* Break down requirements into simple logic
-* Write clean and readable Python code
+* Translate requirements into code or SQL queries
+* Write clean and readable solutions
 * Practice problem solving consistently
-* Build confidence with Python programming
+* Build confidence with Python and SQL
 
 ---
 
-## Language
+## Languages / Tools
 
-Python 3
+Python 3 · SQL · MySQL
 
 ---
 
@@ -58,21 +84,29 @@ I focus on understanding the logic clearly before optimizing the code.
 
 # HackerRank 練習リポジトリ
 
-このリポジトリは、Python練習、HackerRankの解答、プログラミング基礎学習をまとめたものです。
+このリポジトリは、HackerRankの練習問題、解答、プログラミング基礎学習をまとめたものです。
 
-Pythonの基本文法、問題解決、基礎的なアルゴリズム、オブジェクト指向プログラミングの学習記録として使用しています。
+Python、SQL、問題解決、基礎的なアルゴリズム、プログラミングロジックの学習記録として使用しています。
 
 ---
 
 ## このリポジトリについて
 
-このリポジトリは、コーディング問題やPython基礎を練習しながら、継続的に更新しています。
+このリポジトリは、コーディング問題やデータベースクエリを練習しながら、継続的に更新しています。
 
-単に解答を保存するだけでなく、問題を理解し、要件をロジックに分解し、読みやすいPythonコードを少しずつ書けるようになることを目的としています。
+単に解答を保存するだけでなく、以下の力を高めることを目的としています。
+
+* 問題文の要件を理解する力
+* 問題をシンプルなロジックに分解する力
+* 読みやすいコードを書く力
+* SQLクエリのパターンを練習する力
+* 継続的に学習する習慣
 
 ---
 
 ## 練習内容
+
+### Python
 
 * Python基礎
 * 入力と出力
@@ -82,8 +116,26 @@ Pythonの基本文法、問題解決、基礎的なアルゴリズム、オブ�
 * リストとデータ構造
 * 関数
 * オブジェクト指向プログラミング
-* 基礎的なアルゴリズム
-* 問題解決
+* 基本的な問題解決
+
+### SQL
+
+* 基本的なSELECT文
+* WHEREによるデータ抽出
+* ORDER BYによる並び替え
+* DISTINCTによる重複除外
+* LEFT、RIGHT、LENGTH、REPLACEなどの文字列関数
+* COUNT、AVG、CEILなどの集計関数
+* 基本的なSQL問題解決
+
+---
+
+## 現在のSQLカテゴリ
+
+* Basic Select
+* Aggregation
+
+今後、Join、Advanced Select、Alternative Queriesなどのカテゴリも追加していく予定です。
 
 ---
 
@@ -92,16 +144,16 @@ Pythonの基本文法、問題解決、基礎的なアルゴリズム、オブ�
 このリポジトリを通して、以下のスキル向上を目指しています。
 
 * プログラミング問題を読み、理解する力
-* 要件をシンプルなロジックに分解する力
-* 読みやすいPythonコードを書く力
+* 要件をコードやSQLクエリに変換する力
+* 読みやすい解答を書く力
 * 継続的に問題解決を練習する力
-* Pythonプログラミングへの自信をつけること
+* PythonとSQLへの自信をつけること
 
 ---
 
-## 使用言語
+## 使用言語・ツール
 
-Python 3
+Python 3 · SQL · MySQL
 
 ---
 
